@@ -19,6 +19,9 @@ This project contains following files/folders -
             providing email and password. If not registered before then it will show error.On submit it
             will call Login.php through ajax call.
 <br/>
-2."SignUp.php" first connects with the database and table present in MySQL and when we submit SignUp form the form data will be stored in database
+2."SignUp.php"  connects with the database and table present in MySQL and when we submit SignUp form the form data will be stored in database bt using the MySQL insert query.
+<br/><br/>
+
+3."Login.php" contains code for connection to database and it takes input from Login Form and select query will be executed to retreive data of entered email id. If password matches then result will be displayed otherwise it will check for errors and display suitable errors.
 
 
