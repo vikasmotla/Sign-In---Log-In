@@ -1,4 +1,4 @@
-# Sign-In---Log-In
+# SignUp--LogIn
 <br/>
 Simple Sign In and Log in page using HTML5, CSS, PHP, MySQL
 <br/>
