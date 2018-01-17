@@ -9,8 +9,7 @@ This project contains following files/folders -
 3.Login.php (contains php code for login existing member). <br/>
 4.Snapshots.
 
-<br/><br/><br/>
-
+<br/><br/>
 1. In "Main.html" I have written HTML , CSS ,Bootstrap , JQuery and AJAX code. The HTML , CSS and Bootsrap are used for designing the Sign in and Log in module. I have created two forms - <br/>
           - Sign Up form : This form is for registration purpose. If you are a new member then you need to enter your details to register.
             The email id should be unique and should not be used for another registration.
