@@ -15,7 +15,7 @@ $database_name = "accountinfo";
 $data = mysqli_select_db($conn,$database_name);
 if(!$data)
 {
-	die("can't select account" . mysqli_error());
+	die("can't select accountinfo database");
 }
 
 $email = $_POST['email'];
