@@ -22,5 +22,6 @@ This project contains following files/folders -
 2. "SignUp.php"  connects with the database and table present in MySQL and when we submit SignUp form the form data will be stored in database bt using the MySQL insert query.
 <br/><br/>
 3. "Login.php" contains code for connection to database and it takes input from Login Form and select query will be executed to retreive data of entered email id. If password matches then result will be displayed otherwise it will check for errors and display suitable errors.
-
+<br/><br/>
+4. Snapshot folder contains all the snapshots of the project such as Sign Up form, Login Form, Error if email already exists, Wrong password etc.
 
